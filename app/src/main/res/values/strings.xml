@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CookBook</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="favorite">Favorite</string>
+    <string name="food_brief">Informasi Singkat</string>
+    <string name="food_material_title">Bahan :</string>
+    <string name="food_material">Daftar Bahan</string>
+    <string name="food_step_title">Cara Pembuatan :</string>
+    <string name="food_step">Daftar Langkah Pembuatan</string>
+    <string name="hapus">Hapus</string>
+    <string name="show_all">Show All</string>
+    <string name="show_favorite">Show Favorite</string>
+    <string name="about_me">About Me</string>
+    <string name="name">I Putu Reditya Permana Putra</string>
+    <string name="email">putureditya@gmail.com</string>
+</resources>
